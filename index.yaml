@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  configmap:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-08-08T15:16:04.5719361+03:00"
+    description: A Helm chart configmap for find-psy
+    digest: 02aa06686d960c01cc38ff6d5a2acf2127a0de9a37c775ae061854f9a3e27ec2
+    name: configmap
+    urls:
+    - https://timurkash-charts.gitlab.io/helm/configmap-0.1.0.tgz
+    version: 0.1.0
+  nginx:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-08-08T15:16:04.5719361+03:00"
+    description: A Helm chart nginx for find-psy
+    digest: 2f923e455b537987a95de9a2c457249d4988f5ffbfcac8d43c575a237eaf0772
+    name: nginx
+    urls:
+    - https://timurkash-charts.gitlab.io/helm/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-08T15:16:04.5709408+03:00"
